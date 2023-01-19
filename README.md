@@ -1,4 +1,4 @@
-# LUMS Digital Design Lab - P10 Display Deployment
+# LUMS Digital Design Lab - P10 Display Web Deployment
 ## Author: mfaseehuddin
 ### Professor: Dr. Jahangir Ikram
 
